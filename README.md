@@ -1,4 +1,4 @@
-<img src="http://www.eduardopires.net.br/wp-content/uploads/2016/12/EquinoxLogo.png" alt="Equinox Project"> 
+<img src="http://www.eduardopires.net.br/wp-content/uploads/2016/12/EquinoxLogo.png" style="width:40%;" alt="Equinox Project"> 
 
 
 What is the Equinox Project?
